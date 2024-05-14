@@ -1,4 +1,4 @@
-# CRUD Operations with Node.js and Express
+# CRUD Operations with Node.js and Express[^1]
 
 **Friend's** list using Express server
 
@@ -13,3 +13,4 @@ You will also learn to provide authenticated access to the endpoints. You will u
 - Create API endpoints to perform Create, Retrieve, Update and Delete operations on transient data with an Express server.
 
 - Implement authentication at the session level using JSON Web Tokens (JWT) for authorized access.
+[^1]: [instructions](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CD0220EN-SkillsNetwork/labs/Module3_ExpressJS/Hands-on_Lab_CRUD.md.html)
